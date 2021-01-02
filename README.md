@@ -41,4 +41,15 @@ npm run build --report
 ```
 
 To run: 
-* Node: `node server.js`
+* open index.html on your browser
+
+
+# Output
+
+![alt text](https://github.com/prerakpatelca/Grade-App-with-Vue.js/blob/master/Screen%20Shot%202021-01-02%20at%203.54.58%20PM.png)
+![alt text](https://github.com/prerakpatelca/Grade-App-with-Vue.js/blob/master/Screen%20Shot%202021-01-02%20at%204.40.27%20PM.png)
+![alt text](https://github.com/prerakpatelca/Grade-App-with-Vue.js/blob/master/Screen%20Shot%202021-01-02%20at%204.40.45%20PM.png)
+![alt text](https://github.com/prerakpatelca/Grade-App-with-Vue.js/blob/master/Screen%20Shot%202021-01-02%20at%204.42.33%20PM.png)
+![alt text](https://github.com/prerakpatelca/Grade-App-with-Vue.js/blob/master/Screen%20Shot%202021-01-02%20at%204.41.47%20PM.png)
+![alt text](https://github.com/prerakpatelca/Grade-App-with-Vue.js/blob/master/Screen%20Shot%202021-01-02%20at%204.42.01%20PM.png)
+![alt text](https://github.com/prerakpatelca/Grade-App-with-Vue.js/blob/master/Screen%20Shot%202021-01-02%20at%204.42.13%20PM.png)
